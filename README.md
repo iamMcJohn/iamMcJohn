@@ -22,7 +22,8 @@
 ---
 ## 🚀 Projects
  - [Lion Bank ATM Transactions](https://github.com/iamMcJohn/Lion-Bank-ATM-Transactions-Analysis.): An exploratory data analysis of Lion bank ATM transactions across five locations.
- - [Pizza Sales Report for 2014](https://github.com/iamMcJohn/Sales-Report-for-2014): GitHub repository showcasing data analysis and visualization for sales performance.  
+ - [Pizza Sales Report for 2014](https://github.com/iamMcJohn/Sales-Report-for-2014): GitHub repository showcasing data analysis and visualization for sales performance.
+ - [Customer Shopping Analysis](https://github.com/iamMcJohn/Customers-Shopping-Analysis): This a power BI project that visualized key metrics of 10 shopping malls in Istanbul.
 ---
 ## 🎓 Education
 - **B.Sc. Mathematics**  
